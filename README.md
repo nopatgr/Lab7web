@@ -51,4 +51,4 @@ http://localhost/lab7_php_dasar/php_dasar.php
 Menambahkan variable pada program.
 ![Lab7web](img/variabel1.png)
 
-1[Lab7web](img/variabel2.png)
+![Lab7web](img/variabel2.png)
